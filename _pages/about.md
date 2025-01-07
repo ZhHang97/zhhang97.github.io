@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a second-year PhD student studying Mechanical Engineering at the University of Wisconsin, Madison, advised by Prof. [Xiangru Xu](https://xu.me.wisc.edu/). My research interests include control theory and learning method, with application in safety verification for safety-critical systems. I received my M.S. in Electrical and Computer Engineering from University of Michigan, Ann Arbor, and a B.E. in Automation from Harbin Institute of Technology. You can find my CV [here](../assets/CV_zhhang_new.pdf).
+I'm a third-year PhD student studying Mechanical Engineering at the University of Wisconsin, Madison, advised by Prof. [Xiangru Xu](https://xu.me.wisc.edu/). My research interests include control theory and learning method, with application in safety verification for safety-critical systems. I received my M.S. in Electrical and Computer Engineering from University of Michigan, Ann Arbor, and a B.E. in Automation from Harbin Institute of Technology. You can find my CV [here](../assets/CV_zhhang_new.pdf).
 
 A data-driven personal website
 ======
